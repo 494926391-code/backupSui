@@ -1,4 +1,5 @@
 ----------本地文件安装sui面板-------------
+
 1、上传sui压缩文件到root目录
 mkdir -p /usr/local/s-ui && tar -xzvf /root/s-ui.tar.gz -C /
 
