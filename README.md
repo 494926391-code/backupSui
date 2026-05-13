@@ -1,4 +1,7 @@
 ----------本地文件安装sui面板-------------
+<img width="1270" height="711" alt="下载压缩文件步骤1" src="https://github.com/user-attachments/assets/07b9c80f-e5a7-4033-86ed-70f7b2435de0" />
+<img width="1296" height="614" alt="下载压缩文件步骤2" src="https://github.com/user-attachments/assets/4c0572be-ddb7-417d-83c1-7ea772554fe2" />
+
 
 
 1、上传sui压缩文件到root目录
