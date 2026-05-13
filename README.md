@@ -19,3 +19,16 @@ http://ip地址:2095/app/
 账号      U2FsdGVkX1/8KE
 
 密码      1nr6ogIP/4ztdFbQS3U6FFbKRrNPE=
+
+
+
+
+----------高性价比vps服务器和住宅IP推荐---------
+
+vmrack三网优化3TB流量5Gbps带宽低至每月7.88美元
+
+https://www.vmrack.net?ref_code=5mYmU5kqyCs
+
+1024proxy长效静态住宅IP低至每月2~5美元
+
+https://api.1024proxy.com/share/sn72srquy
